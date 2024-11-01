@@ -1,6 +1,14 @@
 {
   "products": [
-    
+    {
+    "name": "PINTOOO",
+    "price": 50,
+    "image": "https://cdn.awsli.com.br/600x1000/2394/2394401/produto/24822489842636904c5.jpg",
+    "description": "aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "color": "Green",
+    "size": "L",
+    "id": 10
+  }
   ],
   "accounts": [
     {
