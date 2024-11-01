@@ -1,14 +1,32 @@
 {
   "products": [
     {
-    "name": "PINTOOO",
-    "price": 50,
-    "image": "https://cdn.awsli.com.br/600x1000/2394/2394401/produto/24822489842636904c5.jpg",
-    "description": "aaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "color": "Green",
-    "size": "L",
-    "id": 10
-  }
+      id: 1,
+      name: 'Formula E New Era Repreve 9FORTY Cap',
+      price: 380,
+      image: 'https://store.fiaformulae.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd843c058/images/large/701229416001_pp_01_formulanewera.jpg?sw=818&q=80',
+      description: 'Official Formula E logo 9FORTY cap with striking patterned design produced by official Formula E partner, New Era.',
+      color: "Black | Dark Blue",
+      size: "One size"
+    },
+    {
+      id: 2,
+      name: 'Formula E Gradient Water Bottle',
+      price: 200,
+      image: 'https://store.fiaformulae.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwcbe076c5/images/large/701223602001_pp_01_FormulaES9.jpg?sw=1600&sh=1600&sm=fit',
+      description: 'Keep yourself fueled on the go with the Formula E Water Bottle. Produced from Stainless Steel with a double-wall construction to keep your liquids cool.',
+      color: "Blue combo",
+      size: "500ml"
+    },
+    {
+      id: 3,
+      name: 'Formula E Team Cap, Motorsport Collection',
+      price: 320,
+      image: 'https://cdn.awsli.com.br/800x800/1291/1291698/produto/86104149/c10d46be91.jpg',
+      description: 'The official Formula E team cap from the Porsche Motorsport collection.',
+      color: "White",
+      size: "One size"
+    },
   ],
   "accounts": [
     {
